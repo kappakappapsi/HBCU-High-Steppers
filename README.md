@@ -1,4 +1,3 @@
-# HBCU-High-Steppers
 Group Project - README Template
 ===
 
@@ -88,10 +87,9 @@ Social media for bands that allows for people to view/upload band videos.
     * screen will allow you to upload vidoes
 
 ## Wireframes
+[Add picture of your hand sketched wireframes in this section]![](https://i.imgur.com/bTv6UVY.jpg)
 
-[Add picture of your hand sketched wireframes in this section]
-
-<https://imgur.com/9TncPUs>
+<img src="https://imgur.com/9TncPUs" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
