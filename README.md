@@ -88,8 +88,10 @@ Social media for bands that allows for people to view/upload band videos.
     * screen will allow you to upload vidoes
 
 ## Wireframes
+
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+<https://imgur.com/9TncPUs>
 
 ### [BONUS] Digital Wireframes & Mockups
 
