@@ -117,7 +117,7 @@ Home Feed Screen
     let query = PFQuery(className:"Post")
     query.whereKey("author", equalTo: currentUser)
     query.order(byDescending: "createdAt")
-    query.findObjectsInBackground { (posts:                 [PFObject]?, error: Error?) in
+    query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
     if let error = error { 
       print(error.localizedDescription)
     } else if let posts = posts {
